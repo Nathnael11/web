@@ -5,4 +5,4 @@ draft: false
 ---
 
 Hello! My name is Nate and this is my introduction
-![My picture](pic.jpg)
+![My picture](https://zen-hermann-e92573.netlify.app/pic.jpg)
