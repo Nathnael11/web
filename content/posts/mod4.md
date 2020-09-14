@@ -1,9 +1,7 @@
 ---
-title: "Learning Report for Module 4"
-date: 2020-09-13T00:00:00-04:00
+title: "Sample Post"
+date: 2020-08-12T00:00:00-04:00
 draft: false
 ---
 
-We have met as a group and talked about what our roles are going to be for the first blog post. Me and Hassan have chosen the admoistrtaibve role.
-I am excited to be working with my team and getting familiar with Microsoft Teams. We ahve started using the Planner application an it is very usefull in organizing
-our tasks.
+This is a sample post. You can copy the text of this post to create new posts for your weekly learning reports. Pay close attention to the format of the text in this file—changing it too drastically will cause the report to not show up.
