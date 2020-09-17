@@ -38,3 +38,15 @@ HUGO_ENABLEGITINFO = "true"
 name = "Introduction"
 weight = 1
 url = "/introduction/"
+[[menu.main]]
+name = "Definitions"
+weight = 1
+url = "/definitions/"
+[[menu.main]]
+name = "Resource"
+weight = 1
+url = "/resource/"
+[[menu.main]]
+name = "Walkthrough"
+weight = 1
+url = "/walkthrough/"
