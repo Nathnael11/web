@@ -1,5 +1,5 @@
 ---
-title: "Resource"
+title: "Definitions"
 date: 2020-09-17T00:00:00-04:00
 draft: false
 ---
