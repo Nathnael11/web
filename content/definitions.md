@@ -1,11 +1,7 @@
 ---
-title: "Definitions"
-date: 2020-09-13T00:00:00-04:00
+title: "Resource"
+date: 2020-09-17T00:00:00-04:00
 draft: false
 ---
 
-### Hello! My name is Nate and this is my introduction page. I am originally from Addis Ababa, Ethiopia and ive listed some of my hobbies below.
-* Watching Sports
-* Reading
-* Music
-
+This is a dummy post. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
