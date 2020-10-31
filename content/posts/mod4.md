@@ -10,6 +10,7 @@ For this week i was able to
 * Find and use resources for self-directed learning.
 * Identify and employ technologies related to content management. We were introduced to microsoft teams and how to use kanbans...etc
 * Manage content using established workflows. We have met as a group and talked about what our roles are going to be for the first blog post. Me and Hassan have chosen the adminstrative role. I am excited to be working with my team and getting familiar with Microsoft Teams. We have started using the Planner application an it is very usefull in organizing our tasks.
+
 This week I did not
 * Describe and compare content management systems.
 
