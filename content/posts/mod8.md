@@ -3,7 +3,7 @@ title: "Learning Report for Module 8"
 date: 2020-10-07T00:00:00-04:00
 draft: false
 ---
-Here is a picture that i addes to the blog post
+Here is a picture that i added to the blog post
 ![My picture](https://zen-hermann-e92573.netlify.app/amazon.png)
 ### Module 7
 For this week i was able to
